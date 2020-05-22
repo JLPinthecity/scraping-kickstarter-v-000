@@ -9,7 +9,7 @@ def create_project_hash
     projects.each do |project|
       project.project_title =
       project.info_hash =
-  
+    end
 
 
 
